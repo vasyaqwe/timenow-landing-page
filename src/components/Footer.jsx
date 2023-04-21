@@ -44,7 +44,7 @@ export const Footer = () => {
                         </div>
                     ))}
                 </div>
-                <div className='flex-1 ml-auto max-w-[390px]'>
+                <div className='flex-1 max-w-[390px]'>
                     <h4 className='text-lg font-bold mb-3'>Try TweetNow</h4>
                     <div className='relative '>
                         <input className='border-2 w-full border-neutral-400 rounded-md p-5 
